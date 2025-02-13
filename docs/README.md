@@ -2,7 +2,7 @@
 
 ## Description
 
-A simple game project for a [university course](https://programming-24.mooc.fi/) and a [boot.dev](boot.dev) project.
+A simple game project for a [university course](https://programming-24.mooc.fi/) and a [boot.dev](https://boot.dev/) project.
 
 ## Features
 
